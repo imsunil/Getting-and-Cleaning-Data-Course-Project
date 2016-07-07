@@ -9,4 +9,4 @@ The R script, `run_analysis.R`, does the the following as required by the projec
 
 As mentioned the `run_analysis.R` when run will download the required data, read the data, transform the data finally produce the end result `tidydata.txt` in the working directory. This file had been uploaded along with the `run_analysis.R` and is the only script needed to achieve the end result.
 
-The `CodeBook.md` tries to explain in a little more detail the data transformations and variables used in the transdormation.
+The `CodeBook.md` tries to explain in a little more detail the data transformations and variables used in the transformation.
